@@ -1,0 +1,7 @@
+{
+  "name": "ClientBASE 8.0",
+  "description": "A high-end client management and scheduling suite for Baddieglow, featuring appointment booking, revenue tracking, and AI-powered business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
